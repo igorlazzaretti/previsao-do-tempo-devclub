@@ -12,8 +12,8 @@
 </div>
 Em mais um módulo cheio de aprendizado de qualidade, o DevClub nos conecta com o  "Projeto de Previsão do Tempo" (com background inspirado em Harry Potter 🧙‍♂️) dentro da Missão Programador do Zero que ocorreu em Fevereiro de 2023. Aqui utilizando ferramentas na prática simulando projeto reais para engrandecer nosso portifólio.
 
-- Figma: <a href="https://www.figma.com/file/bjFYpO0VU0Y8l2bWALFCvt/Burger-shop?type=design&node-id=0-1&mode=design"> aqui</a>. 
-- Deploy: <a href="https://www.figma.com/file/bjFYpO0VU0Y8l2bWALFCvt/Burger-shop?type=design&node-id=0-1&mode=design"> aqui</a>. 
+
+- Deploy: <a href="https://igorlazzaretti.github.io/previsao-do-tempo-devclub/"> aqui</a>. 
 
 
 

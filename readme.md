@@ -1,18 +1,19 @@
 ## Previsão do Tempo - DevClub
 
 <div align="center">
-   <img width="810" src="./assets/readme/main-img.png">
+   <img width="810" src="./assets/readme/Github Main Readme IMG.png">
 
 </div>
 
-## Missão Você Programador - Fevereiro 2023
+## Missão Você Programador  - Fevereiro 2023
 
 <div align="center">
-   <img width="310" src="./assets/readme/ClubdoPLogo.png">
+   <img width="310" src="./assets/readme/CapaGH.png">
 </div>
-Em mais um módulo cheio de aprendizado de qualidade, o DevClub nos conecta com o Módulo denominado "Club de Portifólio". Aqui utilizando ferramentas na prática simulando projeto reais para engrandecer nosso portifólio.
+Em mais um módulo cheio de aprendizado de qualidade, o DevClub nos conecta com o  "Projeto de Previsão do Tempo" (com background inspirado em Harry Potter 🧙‍♂️) dentro da Missão Programador do Zero que ocorreu em Fevereiro de 2023. Aqui utilizando ferramentas na prática simulando projeto reais para engrandecer nosso portifólio.
 
 - Figma: <a href="https://www.figma.com/file/bjFYpO0VU0Y8l2bWALFCvt/Burger-shop?type=design&node-id=0-1&mode=design"> aqui</a>. 
+- Deploy: <a href="https://www.figma.com/file/bjFYpO0VU0Y8l2bWALFCvt/Burger-shop?type=design&node-id=0-1&mode=design"> aqui</a>. 
 
 
 
@@ -20,6 +21,7 @@ Em mais um módulo cheio de aprendizado de qualidade, o DevClub nos conecta com 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="70" height="65"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="70" height="65"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="70" height="65"/>&nbsp;
 
 </div>
 
@@ -33,7 +35,7 @@ Sem contar com as aulas liberadas constantemente como potencializador do seu apr
 
 <div align="center">
 
-<img  width="210" src="./assets/readme/devclubico.png"> </div>
+<img  width="140" src="./assets/readme/devclubico.png"> </div>
 
 
 ## Sobre o o Professor e Idealizador do Curso

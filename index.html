@@ -1,46 +1,48 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/styles.css" />
+    <script src="./assets/scripts.js"></script>
 
-    <link rel="stylesheet" href="styles.css">
-    <script src="scripts.js"></script>
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&family=IBM+Plex+Sans+Condensed:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&family=IBM+Plex+Serif:ital@0;1&family=Open+Sans&display=swap"
-        rel="stylesheet">
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&family=IBM+Plex+Sans+Condensed:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&family=IBM+Plex+Serif:ital@0;1&family=Open+Sans&display=swap"
+      rel="stylesheet"
+    />
 
-    <title>Previsão do tempo</title>
-</head>
+    <title>Previsão do Tempo - DevClub</title>
+  </head>
 
-<body>
+  <body>
     <div class="caixamaior">
-        <input class='input-cidade' placeholder="Digite o nome da cidade">
-        <button onclick="cliqueNoBotao()">
-            <img class="lupa" src="https://www.svgrepo.com/show/488200/find.svg">
-        </button>
+      <input class="input-cidade" placeholder="Caxias do Sul, Rio Grande do Sul, Brasil" />
+      <button onclick="cliqueNoBotao()">
+        <img class="lupa" src="https://www.svgrepo.com/show/488200/find.svg" />
+      </button>
 
-        <div class="caixamedia">
-            <h2 class="paginaInicial">Confira a previsão do tempo.</h2>
-            <h2 class="cidade"></h2>
-        </div>
 
-        <div>
-            <p class="temperatura"></p>
-            <div class="caixamenor">
-                <div class="caixinha">
-                    <img class="icone">
-                    <p class="descricao"></p>
-                </div>
-                <p class="umidade"></p>
-            </div>
+      <div class="caixamedia">
+        <h2 class="paginaInicial">Digite a cidade e confira o clima neste momento!<br> 🧙‍♂️ </h2>
+        <p class="site-dev "> Obrigado pela visita. Acesse meu Portifólio:
+            <br> <a href="http://igorlazzaretti.com" target="_blank"> <button class="visited">igorlazzaretti.com</button></a></p>
+        <h2 class="cidade"></h2>
+      </div>
+
+      <div>
+        <p class="temperatura"></p>
+        <div class="caixamenor">
+          <div class="caixinha">
+            <img class="icone" />
+            <p class="descricao"></p>
+          </div>
+          <p class="umidade"></p>
         </div>
+      </div>
     </div>
-</body>
-
+  </body>
 </html>
